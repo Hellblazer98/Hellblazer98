@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danylo!</h1>
 <h3 align="center">I'm Frontend Developer with expertise in React, JS, Next, HTML/CSS, and I am currently seeking new opportunities for growth.</h3>
 
-- 💵 My first commercial project [Panima Consult](https://panima.consulting)
-
-- 🌱 I’m currently learning **Next.js (deeper)**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/danylo-krasnov/](https://www.linkedin.com/in/danylo-krasnov/)
-
-- 💬 Ask me about **React, Next.js, JS**
-
-- 📫 How to reach me **krasnoff.d98@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danylo-krasnov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danylo-krasnov/" height="30" width="40" /></a>
